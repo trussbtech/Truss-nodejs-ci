@@ -1,0 +1,15 @@
+{
+	"name": "Hello-World",
+	"private": true,
+	"version": "0.0.1",
+	"description": "Deme app Hello-World Docker course",
+	"main": "app.js",
+	"author": "Tyrone Russ <tyroneruss.aws@gmaol.com>",
+	"license": "Production used : -D",
+	"dependencies": {
+		"express": "3.2.4",
+		"jade": "1.11.0",
+		"mocha": "1.20.1",
+		"supertest": "1.1.0"
+	}
+}
